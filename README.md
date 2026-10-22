@@ -1,11 +1,16 @@
+# Sort
 
-  # Scrollytelling landing page
+Page de présentation d'une application de sorties intergénérationnelles.
 
-  This is a code bundle for Scrollytelling landing page. The original project is available at https://www.figma.com/design/MQ7ilGRcZwx7DEd5JxhaB0/Scrollytelling-landing-page.
+Les jeunes et les seniors se retrouvent autour d'événements, chacun dans son cercle.
 
-  ## Running the code
+## Stack
 
-  Run `npm i` to install the dependencies.
+- React, Vite, Tailwind CSS
 
-  Run `npm run dev` to start the development server.
-  
+## Démarrage
+
+```bash
+npm install
+npm run dev
+```
